@@ -6,7 +6,7 @@
 
 **Building Software That Powers Your Vision**
 
-[🌐 Live Website](https://sshtechno.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/company/ssh-techno/about/) • [📧 Email](mailto:sshtechno.com@gmail.com) • [📱 Phone](tel:+923068585392)
+[🌐 Live Website](https://sshtechno.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/company/ssh-techno/about/) • [📧 Email](mailto:sshtechno.com@gmail.com) • [📱 Phone: +92 306 858 5392](tel:+923068585392)
 
 </div>
 
@@ -106,21 +106,13 @@ To bridge the gap between innovative ideas and powerful digital solutions throug
 **Industry**: Financial Technology  
 **Results**: Successfully secured $2M seed funding, 1000+ early adopters
 
-## 💬 Client Testimonials
 
-> *"SSHTechno transformed our business with their exceptional mobile app. The 300% increase in mobile sales exceeded our wildest expectations."*
-> 
-> **— Ahmed Khan, CEO, RetailTech Solutions**
-
-> *"The team's expertise and dedication made all the difference in our project's success."*
-> 
-> **— Sarah Johnson, CTO, MediCare Clinic**
 
 ## 📍 Contact Information
 
 - **📍 Location**: Hyderabad, Sindh, Pakistan
 - **📧 Email**: [sshtechno.com@gmail.com](mailto:sshtechno.com@gmail.com)
-- **📱 Phone**: [+92 306 858 5392](tel:+923068585392)
+- **📱 Phone**: [📞 +92 306 858 5392](tel:+923068585392)
 - **🌐 Website**: [https://sshtechno.vercel.app](https://sshtechno.vercel.app)
 - **💼 LinkedIn**: [@ssh-techno](https://www.linkedin.com/company/ssh-techno/about/)
 
@@ -174,8 +166,6 @@ Whether you're a startup with a groundbreaking idea or an established business l
 ---
 
 <div align="center">
-
-**Built with ❤️ in Pakistan by SSHTechno**
 
 [🌐 Website](https://sshtechno.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/company/ssh-techno/about/) • [📧 Email](mailto:sshtechno.com@gmail.com)
 
