@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SSHTechno Logo](https://sshtechno.vercel.app/logo.png)
+![SSHTechno Logo](https://raw.githubusercontent.com/sshtechno/sshtechno/refs/heads/main/githubLogo.png)
 
 **Building Software That Powers Your Vision**
 
